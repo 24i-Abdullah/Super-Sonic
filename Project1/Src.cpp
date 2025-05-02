@@ -4,7 +4,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <SFML/Window.hpp>
-//this is maaz and abdullah
+#include<string>
 using namespace sf;
 using namespace std;
 
